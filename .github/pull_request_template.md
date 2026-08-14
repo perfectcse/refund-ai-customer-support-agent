@@ -1,0 +1,42 @@
+## Description
+Please include a summary of the changes and related context.
+
+Fixes # (issue)
+
+## Type of Change
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Documentation update
+
+## Changes Made
+Please describe the specific changes you made:
+- 
+-
+-
+
+## Testing
+Please describe the tests you ran and how to reproduce them:
+
+```
+Steps:
+1. 
+2.
+3.
+```
+
+## Screenshots (if applicable)
+Add screenshots for UI changes or important visual updates.
+
+## Checklist
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] I have tested the demo scenarios (for /chat and /admin pages)
+- [ ] The build passes (`npm run build`)
+- [ ] No breaking changes were introduced
+
+## Additional Notes
+Any additional context or notes about this PR.
